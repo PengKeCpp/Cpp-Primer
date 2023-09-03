@@ -8,6 +8,6 @@
 
 int main() {
     //error: cannot declare variable ‘disc_quote’ to be of abstract type ‘Disc_quote’
-    Disc_quote disc_quote;
+//    Disc_quote disc_quote;
     return 0;
 }
